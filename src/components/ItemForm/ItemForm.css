@@ -1,0 +1,14 @@
+.product_form{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 15px;
+}
+
+.add_button{
+    color: var(--clr-light);
+    background-color: var(--clr-darkblue);
+    font-size: 1.5rem;
+    border-radius: 25px;
+    padding: 10px;
+}

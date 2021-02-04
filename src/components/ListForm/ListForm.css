@@ -1,0 +1,11 @@
+.list_form{
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    padding: 15px;
+}
+
+.fields{
+    display: flex;
+    flex-direction: column;
+}

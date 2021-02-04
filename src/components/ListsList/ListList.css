@@ -1,0 +1,5 @@
+.list_form{
+    display: flex;
+    justify-content: center;
+    padding: 15px;
+}

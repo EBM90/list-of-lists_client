@@ -1,0 +1,17 @@
+.product{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    width:90%;
+    border: 2px var(--clr-darkblue) solid;
+    margin: 15px 0;
+    background-color: var(--clr-beige);
+    padding: 10px;
+}
+
+.info{
+    display: flex;
+    flex-direction: row;
+    padding: 10px;
+}
+
